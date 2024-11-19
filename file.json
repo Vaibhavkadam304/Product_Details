@@ -1,0 +1,269 @@
+
+{
+    "id": 10355,
+    "name": "cakepops",
+    "slug": "cakepops",
+    "permalink": "https://woocommerce-1355247-4989037.cloudwaysapps.com/product/cakepops/",
+    "date_created": "2024-10-29T22:56:06",
+    "date_created_gmt": "2024-10-29T22:56:06",
+    "date_modified": "2024-10-29T22:58:08",
+    "date_modified_gmt": "2024-10-29T22:58:08",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>cakepops</p>\n",
+    "short_description": "<p>cakepops</p>\n",
+    "sku": "",
+    "price": "2",
+    "regular_price": "10",
+    "sale_price": "2",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 1,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+        {
+            "id": 26,
+            "name": "Cake Pops",
+            "slug": "cake-pops"
+        }
+    ],
+    "tags": [],
+    "images": [],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>10.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#036;10.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>2.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#036;2.00.</span>",
+    "related_ids": [
+        8422,
+        9855,
+        8765,
+        9158,
+        8292
+    ],
+    "meta_data": [
+        {
+            "id": 76293,
+            "key": "chosen_product_cat",
+            "value": [
+                26
+            ]
+        },
+        {
+            "id": 76307,
+            "key": "_dokan_new_product_email_sent",
+            "value": "yes"
+        },
+        {
+            "id": 76308,
+            "key": "_dokan_geolocation_use_store_settings",
+            "value": "yes"
+        },
+        {
+            "id": 76309,
+            "key": "dokan_geo_latitude",
+            "value": "47.5309339"
+        },
+        {
+            "id": 76310,
+            "key": "dokan_geo_longitude",
+            "value": "-121.8526839"
+        },
+        {
+            "id": 76311,
+            "key": "dokan_geo_public",
+            "value": "1"
+        },
+        {
+            "id": 76312,
+            "key": "dokan_geo_address",
+            "value": "36526 SE Woody Creek Ln, Snoqualmie, WA 98065, USA"
+        },
+        {
+            "id": 76317,
+            "key": "_disable_shipping",
+            "value": "no"
+        },
+        {
+            "id": 76318,
+            "key": "_overwrite_shipping",
+            "value": "no"
+        },
+        {
+            "id": 76319,
+            "key": "_additional_price",
+            "value": ""
+        },
+        {
+            "id": 76320,
+            "key": "_additional_qty",
+            "value": ""
+        },
+        {
+            "id": 76321,
+            "key": "_dps_processing_time",
+            "value": ""
+        },
+        {
+            "id": 76324,
+            "key": "_dokan_catalog_mode",
+            "value": {
+                "hide_add_to_cart_button": "off",
+                "hide_product_price": "off"
+            }
+        },
+        {
+            "id": 76325,
+            "key": "_product_addons",
+            "value": []
+        },
+        {
+            "id": 76326,
+            "key": "_product_addons_exclude_global",
+            "value": "0"
+        },
+        {
+            "id": 76327,
+            "key": "pageview",
+            "value": "3"
+        }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "exclude_global_add_ons": [],
+    "addons": [],
+    "store": {
+        "id": 54,
+        "name": "Noah James",
+        "shop_name": "Noah Treats",
+        "url": "https://woocommerce-1355247-4989037.cloudwaysapps.com/store/noah-treats/",
+        "address": {
+            "street_1": "36526 SE Woody Creek Ln",
+            "street_2": "",
+            "city": "Snoqualmie",
+            "zip": "98065",
+            "country": "US",
+            "state": "WA",
+            "location_name": "Default"
+        }
+    },
+    "_links": {
+        "self": [
+            {
+                "href": "https://woocommerce-1355247-4989037.cloudwaysapps.com/wp-json/wc/v3/products/10355"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://woocommerce-1355247-4989037.cloudwaysapps.com/wp-json/wc/v3/products"
+            }
+        ]
+    }
+},
+{
+    "id": 10322,
+    "name": "Chocolate truffles (4pack) by Cakes n Party",
+    "slug": "chocolate-truffles-4pack-by-cakes-n-party",
+    "permalink": "https://woocommerce-1355247-4989037.cloudwaysapps.com/product/chocolate-truffles-4pack-by-cakes-n-party/",
+    "date_created": "2024-10-26T20:46:45",
+    "date_created_gmt": "2024-10-26T20:46:45",
+    "date_modified": "2024-10-26T20:50:57",
+    "date_modified_gmt": "2024-10-26T20:50:57",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>Delicious chocolate truffle fudge. A pack of four 1\u201d cubes.</p>\n",
+    "short_description": "<p>Delicious chocolate truffle fudge. A pack of four 1\u201d cubes.</p>\n",
+    "sku": "",
+    "price": "5",
+    "regular_price": "5",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "reduced-rate",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+        {
+            "id": 23,
+            "name": "Chocolate",
+            "slug": "chocolate"
+        }
+    ],
